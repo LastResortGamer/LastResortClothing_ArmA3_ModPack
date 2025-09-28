@@ -1,8 +1,8 @@
-name="LastResortGamer's Clothing Pack";
-author="LastResortGamer";
+name="LastResort's Clothing Pack";
+author="ChasedByDarkness";
 logo="logo\Logo.paa";
 logoOver="logo\LogoHover.paa";
-tooltip="LastResortGamer's Clothing Pack";
+tooltip="LastResort Clothing Pack";
 picture="logo\LogoBig.paa";
 actionName="Discord";
 action="https://discord.gg/z5YbKPu";
